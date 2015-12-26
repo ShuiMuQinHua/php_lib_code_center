@@ -88,3 +88,8 @@ class ValidateCode{
 }
 
 
+//Demo:
+/*
+	$obj = new ValidateCode(60, 20, 4);
+	$obj->showImage();
+*/
