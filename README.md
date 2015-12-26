@@ -13,3 +13,4 @@ ClassMysql.php    MYSQL操作类
 Bom.php 		  检测文件是否有bom头  
 Pagination.php    分页类  
 HttpHeaderResponse.php 获取HTTP响应消息头  
+HttpRequest.php    发送HTTP请求的类(支持get/post, 多并发请求)   
