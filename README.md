@@ -13,4 +13,7 @@ ClassMysql.php    MYSQL操作类
 Bom.php 		  检测文件是否有bom头  
 Pagination.php    分页类  
 HttpHeaderResponse.php 获取HTTP响应消息头  
-HttpRequest.php    发送HTTP请求的类(支持get/post, 多并发请求)   
+HttpRequest.php    发送HTTP请求的类(支持get/post, 多并发请求) 
+php_env_detect_info.php  php环境检测探针
+rsa_key_generator.php    php生成RSA的公/私钥
+  
